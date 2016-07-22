@@ -10,3 +10,5 @@ Depends: R (>= 3.3.0)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/hadley/rfmt2
+BugReports: https://github.com/hadley/rfmt2/issues
